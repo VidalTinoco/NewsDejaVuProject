@@ -4,8 +4,10 @@
 
 ### Package dependencies
 
-Install dependencies
+**Install dependencies**
 
+```bash
 !pip install transformers datasets seqeval torch
 !pip install datasets
 !pip install seqeval --upgrade
+```
